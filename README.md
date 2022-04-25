@@ -7,18 +7,19 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ Defined two classes to represent an objects appearance and position in space. 
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 3/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ NONE
 
 ## REFERENCES:
- < List any outside resources used >
+(https://docs.python.org/3/tutorial/classes.html)
+https://www.tutorialspoint.com/python/python_classes_objects.htm
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ N/A
